@@ -91,7 +91,7 @@ E-Commerce-Sales-Customer-Analytics/
 └── charts/
     ├── sales_chart.png
     ├── profit_chart.png
-    └── customer_chart.png
+    └── category_chart.png
 
 👩‍💻 Author
 
