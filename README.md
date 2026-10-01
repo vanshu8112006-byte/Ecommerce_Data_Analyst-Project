@@ -85,8 +85,8 @@ The analysis helps understand:
 
 E-Commerce-Sales-Customer-Analytics/
 │
-├── E-Commerce_Sales_Analysis.ipynb
-├── E-Commerce_Dataset.xlsx
+├── E-Commerce_Sales_Analyst.ipynb
+├── ECommerce_sales_2025.csv
 ├── README.md
 └── charts/
     ├── sales_chart.png
@@ -94,4 +94,5 @@ E-Commerce-Sales-Customer-Analytics/
     └── customer_chart.png
 
 👩‍💻 Author
+
 Vanshika
