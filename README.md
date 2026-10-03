@@ -1,13 +1,13 @@
 
-E-Commerce Sales & Customer Analytics
+#**E-Commerce Sales & Customer Analytics
 
-Project Overview:-
+**Project Overview:-
 
 This is a Python Data Analyst portfolio project based on E-Commerce transaction data.
 
 The project analyzes sales, profit, customers, products, marketing channels, returns, discounts, and other business factors using Python.
 
-Objectives:-
+**Objectives:-
 
 - Analyze total sales and profit
 - Identify top-performing products and categories
@@ -18,7 +18,7 @@ Objectives:-
 - Study the impact of discounts
 - Find useful business insights
 
-Tools & Technologies:-
+**Tools & Technologies:-
 
 - Python
 - Pandas
@@ -26,16 +26,16 @@ Tools & Technologies:-
 - Matplotlib
 - Jupyter Notebook
 
-Project Analysis:-
+**Project Analysis:-
 
-1. Data Cleaning
+**1. Data Cleaning
 
 - Removed duplicate records
 - Handled missing values
 - Cleaned data columns
 - Prepared data for analysis
 
-2. KPI Analysis
+**2. KPI Analysis
 
 The project calculates:
 
@@ -47,7 +47,7 @@ The project calculates:
 - Profit Margin
 - Return Rate
 
-3. Exploratory Data Analysis
+**3. Exploratory Data Analysis
 
 The project includes analysis of:
 
@@ -60,16 +60,16 @@ The project includes analysis of:
 - Discounts
 - Customer Analysis
 
-Visualizations:-
+**Visualizations:-
 
-The project uses:
+**The project uses:
 
 - Line Chart
 - Bar Chart
 - Histogram
 - Scatter Plot
 
-Business Insights:-
+**Business Insights:-
 
 The analysis helps understand:
 
@@ -81,5 +81,5 @@ The analysis helps understand:
 - Which customers are valuable or may need attention
 
 
-Author-
+**Author-
 Vanshika
