@@ -52,7 +52,17 @@ The project analyzes sales, profit, customers, products, marketing channels, ret
 | Delivery_Days | Number of days taken for delivery |
 | Returned | Indicates whether the order was returned |
 | Rating | Customer rating for the order |
-| Marketing_Channel | Marketing channel through which the customer was acquired | 
+| Marketing_Channel | Marketing channel through which the customer was acquired |
+
+## Tools & Technologies
+
+| Tool / Technology | Purpose |
+|---|---|
+| Python | Data analysis and programming language |
+| Pandas | Data loading, data cleaning and data manipulation |
+| NumPy | Numerical calculations, handling missing and invalid values |
+| Matplotlib | Data visualization |
+| Jupyter Notebook | Writing and running Python code |
 
 **Project Analysis:-**
 
