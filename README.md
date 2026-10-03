@@ -66,7 +66,6 @@ The project uses:
 
 - Line Chart
 - Bar Chart
-- Pie Chart
 - Histogram
 - Scatter Plot
 
