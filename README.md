@@ -26,6 +26,34 @@ The project analyzes sales, profit, customers, products, marketing channels, ret
 - Matplotlib
 - Jupyter Notebook
 
+ ## 📁 Dataset
+
+*File:* ecommerce_sales_2025.csv  
+(E-commerce transaction data used for sales and customer analysis)
+
+| Column | Description |
+|---|---|
+| Order_ID | Unique ID of each order |
+| Order_Date | Date when the order was placed |
+| Customer_ID | Unique ID of the customer |
+| Gender | Gender of the customer |
+| Age | Age of the customer |
+| City | City where the customer is located |
+| Category | Product category |
+| Product | Name of the product |
+| Quantity | Number of products purchased |
+| Unit_Price | Price of one unit of the product |
+| Discount_Pct | Percentage of discount applied |
+| Sales | Total sales/revenue generated |
+| Cost | Cost of the products |
+| Shipping_Cost | Cost of shipping the order |
+| Profit | Profit earned from the order |
+| Payment_Method | Payment method used by the customer |
+| Delivery_Days | Number of days taken for delivery |
+| Returned | Indicates whether the order was returned |
+| Rating | Customer rating for the order |
+| Marketing_Channel | Marketing channel through which the customer was acquired | 
+
 **Project Analysis:-**
 
 **1. Data Cleaning**
