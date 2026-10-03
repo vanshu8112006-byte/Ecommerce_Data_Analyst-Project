@@ -98,14 +98,29 @@ The project includes analysis of:
 - Discounts
 - Customer Analysis
 
-**Visualizations:-**
+## 📊 Data Visualization
 
-The project uses:
+This project includes the following visualizations:
 
-- Line Chart
-- Bar Chart
-- Histogram
-- Scatter Plot
+### 1. 📈 Monthly Sales Analysis
+A line chart showing the monthly sales trend throughout the year.
+
+![Monthly Sales Analysis](charts/monthly_sales.png)
+
+### 2. 🔵 Discount vs Profit
+A scatter plot showing the relationship between discount percentage and profit.
+
+![Discount vs Profit](charts/discount_vs_profit.png)
+
+### 3. 📊 Category Sales Analysis
+A bar chart comparing sales across different product categories.
+
+![Category Sales Analysis](charts/category_sales.png)
+
+### 4. 📉 Sales Distribution
+A histogram showing the distribution of sales values.
+
+![Sales Distribution](charts/sales_distribution.png)
 
 **Business Insights:-**
 
