@@ -105,7 +105,7 @@ This project includes the following visualizations:
 ### 1. 📈 Monthly Sales Analysis
 A line chart showing the monthly sales trend throughout the year.
 
-![Monthly Sales Analysis](charts/monthly_sales.png)
+![Monthly Sales Trend - 2025](charts/monthly_sales.png)
 
 ### 2. 🔵 Discount vs Profit
 A scatter plot showing the relationship between discount percentage and profit.
@@ -115,7 +115,7 @@ A scatter plot showing the relationship between discount percentage and profit.
 ### 3. 📊 Category Sales Analysis
 A bar chart comparing sales across different product categories.
 
-![Category Sales Analysis](charts/category_sales.png)
+![Sales by Category](charts/category_sales.png)
 
 ### 4. 📉 Sales Distribution
 A histogram showing the distribution of sales values.
