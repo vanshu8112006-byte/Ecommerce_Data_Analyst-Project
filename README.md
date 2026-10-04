@@ -18,14 +18,6 @@ The project analyzes sales, profit, customers, products, marketing channels, ret
 - Study the impact of discounts
 - Find useful business insights
 
-**Tools & Technologies:-**
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook
-
  ## Dataset
 
 *File:* ecommerce_sales_2025.csv  
@@ -115,6 +107,19 @@ The analysis helps understand:
 - Where returns are high
 - How discounts affect sales and profit
 - Which customers are valuable or may need attention
+
+## Business Recommendations
+
+- Focus on high-performing product categories.
+- Review discount strategies to maintain profitability.
+- Monitor sales trends to support business planning.
+- Analyze returned orders to identify possible improvement areas.
+
+## Conclusion
+
+The project successfully analyzed e-commerce sales and customer transaction data using Python. Through data cleaning, EDA, KPI analysis, and visualization, meaningful insights were identified about sales trends, product categories, discounts, and profitability.
+
+The analysis demonstrates how data can be transformed into useful business insights and supports better data-driven decision-making.
 
 
 **Author-**
