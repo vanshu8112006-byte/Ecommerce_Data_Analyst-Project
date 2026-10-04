@@ -90,12 +90,12 @@ The project includes analysis of:
 - Discounts
 - Customer Analysis
 
-## Data Visualization
+**Data Visualization**
 
-### 1. Monthly Sales Analysis
-### 2. Discount vs Profit
-### 3. Category Sales Analysis
-### 4. Sales Distribution
+## 1. Monthly Sales Analysis
+## 2. Discount vs Profit
+## 3. Category Sales Analysis
+## 4. Sales Distribution
 
 **Business Insights:-**
 
@@ -108,14 +108,14 @@ The analysis helps understand:
 - How discounts affect sales and profit
 - Which customers are valuable or may need attention
 
-## Business Recommendations
+**Business Recommendations**
 
 - Focus on high-performing product categories.
 - Review discount strategies to maintain profitability.
 - Monitor sales trends to support business planning.
 - Analyze returned orders to identify possible improvement areas.
 
-## Conclusion
+**Conclusion**
 
 The project successfully analyzed e-commerce sales and customer transaction data using Python. Through data cleaning, EDA, KPI analysis, and visualization, meaningful insights were identified about sales trends, product categories, discounts, and profitability.
 
