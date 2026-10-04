@@ -93,8 +93,11 @@ The project includes analysis of:
 ### Data Visualization
 
 **1. Monthly Sales Analysis**
+
 **2. Discount vs Profit**
+
 **3. Category Sales Analysis**
+
 **4. Sales Distribution**
 
 ### Business Insights:-
