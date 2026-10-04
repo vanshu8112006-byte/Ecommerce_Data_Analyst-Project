@@ -26,7 +26,7 @@ The project analyzes sales, profit, customers, products, marketing channels, ret
 - Matplotlib
 - Jupyter Notebook
 
- ## 📁 Dataset
+ ## Dataset
 
 *File:* ecommerce_sales_2025.csv  
 (E-commerce transaction data used for sales and customer analysis)
@@ -97,6 +97,13 @@ The project includes analysis of:
 - Returns
 - Discounts
 - Customer Analysis
+
+## Data Visualization
+
+### 1. Monthly Sales Analysis
+### 2. Discount vs Profit
+### 3. Category Sales Analysis
+### 4. Sales Distribution
 
 **Business Insights:-**
 
